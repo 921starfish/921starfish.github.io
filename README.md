@@ -24,3 +24,6 @@ Hi there! I'm hoshino (or 921starfish).
 #### Published on my personal account (written in Japanese)
 - [Releasing "Unit for Luau"](https://zenn.dev/921starfish/articles/unit-for-luau0)
 - [Inside the Implementation of "Unit for Luau"](https://zenn.dev/921starfish/articles/unit-for-luau1)
+
+### [note](https://note.com/921starfish)
+At the moment, it only contains articles that were previously posted on Zenn.
