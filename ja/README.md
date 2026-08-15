@@ -1,17 +1,14 @@
-# hoshinoのページへようこそ
-
 🌐 [English](https://921starfish.github.io/) · 日本語
 
-こんにちは！hoshino（921starfish）です。
+## 自己紹介
 
-株式会社ambrで、Robloxエクスペリエンス（ゲーム・メタバース）の開発とサーバーサイド開発を担当しているソフトウェアエンジニアです。新卒からWebサービス開発（TypeScript / C# / AWSなど）に携わったのち、Roblox開発（Luau / Roblox Studio）に転向しました。学生時代（修士研究）にOCamlに触れたこともあり、関数型プログラミングが好きです。Luauの型システムや設計、開発環境・開発フローの改善（AIエージェントの活用など）をテーマに、OSS開発・技術記事の執筆・カンファレンス登壇を通じて発信しています。
+Robloxエクスペリエンス（ゲーム・メタバース）の開発とサーバーサイド開発を担当しているソフトウェアエンジニア。学生時代に修士研究でプログラミング言語理論に触れたことで関数型プログラミングが好きになる。新卒からWebサービス開発（TypeScript / C# / AWS / Azure など）に携わったのち、現在はRobloxゲームの開発を中心に活動中。
 
-- **関心領域**：関数型プログラミング ／ Roblox・Luau ／ 開発環境・開発フローの整備（AIエージェントの活用を含む）
-- **各種リンク**：[GitHub](https://github.com/921starfish) ・ [Zenn](https://zenn.dev/921starfish) ・ [note](https://note.com/921starfish) ・ [X](https://x.com/921starfish) ・ [Docswell](https://www.docswell.com/user/921starfish)
+- **関心領域**：関数型プログラミング ／ バックエンド全般 ／ Roblox・Luau ／ 開発環境・開発フローの整備（AIエージェントの活用を含む）
 
 ---
 
-## 🎤 登壇
+## 登壇
 
 - **関数型まつり2026**（2026年7月12日）— 個人として公募セッション（10分）に採択・登壇
   - [Robloxでのゲーム開発に使う言語「Luau」について](https://fortee.jp/2026fp-matsuri/proposal/ff1410bc-10d6-42ad-89d3-315d4abd9b06) ・ [スライド](https://www.docswell.com/s/921starfish/KL3E98) ・ [参加記](https://zenn.dev/921starfish/articles/fp_matsuri_2026)
@@ -22,7 +19,7 @@
 
 ---
 
-## 📰 記事
+## 記事
 
 ### [Zenn](https://zenn.dev/921starfish)
 
@@ -51,6 +48,6 @@ Zennに投稿した記事の転載です（内容は同一）。
 
 ---
 
-## 📽️ プロジェクト
+## プロジェクト
 
 - [Unit for Luau](https://github.com/921starfish/unit-for-luau) – Luau向けの最小限のUnit型実装（個人開発のOSS、2025年12月公開）。設計の意図と内部実装は上記の記事で解説しています。
